@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoManager", "PohotoManager\PhotoManager.csproj", "{615AAC47-34C7-4F5B-8970-B5A6F4721FBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoManager", "PhotoManager\PhotoManager.csproj", "{615AAC47-34C7-4F5B-8970-B5A6F4721FBD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotosDatabase", "MyPhotosDatabase\MyPhotosDatabase.csproj", "{8D599D95-92E8-485F-BB5E-CE55506702FB}"
 EndProject
