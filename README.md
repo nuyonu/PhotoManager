@@ -1,4 +1,4 @@
-# PhotoManager
+# PhotoManager | OLD PROJECT
 PhotoManager (.NET FRAMEWORK Windows form)
 
 Statistics:
